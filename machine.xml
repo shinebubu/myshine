@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+        <respStatus>OK</respStatus>   
+        <serverDomain>tu.iov.chan.sg</serverDomain>   
+        <fileUploadDomain>tu.iov.chan.sg</fileUploadDomain>
+        <apiContext>tuApi</apiContext>
+        <serverDomainPort>443</serverDomainPort>
+        <serverHost>tu.iov.chan.sg</serverHost>
+        <serverPort>9961</serverPort>
+        <eCall>020786345</eCall>
+        <eCallTest>020786456</eCallTest>
+        <bCall>020786321</bCall>
+        <iCall>020786666</iCall>
+        <whiteCallList>6754444,6754222</whiteCallList>
+        <smsGateway>106550010321,106575300198</smsGateway>
+        <encryptBuzLayer>false</encryptBuzLayer>
+        <heartBeatInterval>300</heartBeatInterval>
+        <gbChannelEnable>false</gbChannelEnable>
+        <gbServerAddress></gbServerAddress>
+        <gbServerPort></gbServerPort>
+        <localStorePeriod>10</localStorePeriod>
+        <dataUploadPeriod>30</dataUploadPeriod>
+        <warningStatusDataUploadPeriod>100</warningStatusDataUploadPeriod>
+        <serverTimeOut>3</serverTimeOut>
+        <reloginTimeInterval>1</reloginTimeInterval>
+        <confTimestamp>20250615125601</confTimestamp>
+        <terminalDiagEnable>enable</terminalDiagEnable>
+        <messageRandom>CA23903692</messageRandom>
+        <stoppageFileUploadFlag>false</stoppageFileUploadFlag>
+</root>
